@@ -4,7 +4,7 @@
 
 A SNIPPET OF THE PYTHON FILE
 BEFORE 
-<img src="https://github.com/Prophet37/Image-processing-repo/blob/main/blur.PNG">
+<img height=200 width= 200 src="https://github.com/Prophet37/Image-processing-repo/blob/main/blur.PNG">
 
 AFTER
-<img src="https://github.com/Prophet37/Image-processing-repo/blob/main/removal.png">
+<img height=200 width=200 src="https://github.com/Prophet37/Image-processing-repo/blob/main/removal.png">
