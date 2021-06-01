@@ -1,2 +1,10 @@
-# Image processing repo
+# Image processing repo  💙
+
  This is a informative notebook which can be referred to learn image processing or as a refresher for an experienced computer vision expert. The documentation provided by OpenCV is brilliant as well and should be referred to whenever in doubt.
+
+A SNIPPET OF THE PYTHON FILE
+BEFORE 
+<img src="https://github.com/Prophet37/Image-processing-repo/blob/main/blur.PNG">
+
+AFTER
+<img src="https://github.com/Prophet37/Image-processing-repo/blob/main/removal.png">
